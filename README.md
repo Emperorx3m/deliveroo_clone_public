@@ -1,13 +1,10 @@
 
 
 
-```
+
 # Deliveroo Clone App
 
 Welcome to the Deliveroo Clone App! This repository contains a React Native application built with Expo. The project leverages GraphQL (via Apollo Client), Redux for state management, and React Navigation for handling app routes. Additional styling and configuration are enabled using Nativewind and other internal modules.
-
-# [Your App Name]
-================
 
 
 View a video of the app features demo here:
@@ -134,5 +131,5 @@ DEMO: [Demo Video](demo.mp4)
   - [Nativewind Docs](https://www.nativewind.dev/)
 
 Happy coding!
-```
+
 
